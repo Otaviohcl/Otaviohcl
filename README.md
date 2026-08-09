@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Otávio! 👋
 
-<!--
-**Otaviohcl/Otaviohcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia. Atualmente estou construindo uma base sólida na área de TI, desenvolvendo projetos práticos e evoluindo constantemente como desenvolvedor.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Focado em desenvolvimento de software e construção de projetos reais
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas
+- 🎯 Objetivo: construir um portfólio sólido e crescer profissionalmente na área de tecnologia
+
+## 🛠️ Tecnologias e conhecimentos
+
+Atualmente, estou desenvolvendo minha base em:
+
+- Java
+- React
+- Springboot
+- PostgreSQL
+
+> 📌 Conforme eu evoluir, novas tecnologias e projetos serão adicionados aqui.
+
+## 📂 Projetos
+
+Este perfil está em construção. Os projetos que eu desenvolver durante minha jornada serão organizados aqui no GitHub, com foco em aprendizado, prática e evolução técnica.
+
+## 📈 Minha jornada
+
+```text
+Fundamentos de Programação
+        ↓
+Projetos Práticos
+        ↓
+Novas Linguagens e Tecnologias
+        ↓
+Portfólio Profissional
+        ↓
+Desenvolvimento de Software
+```
+
+## 🤝 Vamos nos conectar
+
+Estou sempre aberto a aprender, trocar conhecimento e acompanhar a comunidade de tecnologia.
+
+⭐ **Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!**
