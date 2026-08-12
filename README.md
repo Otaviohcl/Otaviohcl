@@ -1,4 +1,4 @@
-# Olá, eu sou o Otávio! 👋
+# Olá, eu sou o Otávio! 🙅🏻‍♂️
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia. Atualmente estou construindo uma base sólida na área de TI, desenvolvendo projetos práticos e evoluindo constantemente como desenvolvedor.
 
