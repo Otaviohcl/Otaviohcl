@@ -20,8 +20,8 @@ Atualmente, estou desenvolvendo minha base em:
 > 📌 Conforme eu evoluir, novas tecnologias e projetos serão adicionados aqui.
 
 ## 📂 Projetos
-Vava-shop-bot: Bot interativo para Discord com utilitários, consultas de dados e integração para comunidade de VALORANT.
-Pata-Gestão: Sistema de gestão de estoque e controle financeiro focado em agropecuária, com suporte a vendas por peso/unidade, implementação de leitor de codigo de barras e Balança.
+- Vava-shop-bot: Bot interativo para Discord com utilitários, consultas de dados e integração para comunidade de VALORANT.
+- Pata-Gestão: Sistema de gestão de estoque e controle financeiro focado em agropecuária, com suporte a vendas por peso/unidade, implementação de leitor de codigo de barras e Balança.
 
 ## 📈 Minha jornada
 
