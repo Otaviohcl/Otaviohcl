@@ -20,8 +20,8 @@ Atualmente, estou desenvolvendo minha base em:
 > 📌 Conforme eu evoluir, novas tecnologias e projetos serão adicionados aqui.
 
 ## 📂 Projetos
-
-Este perfil está em construção. Os projetos que eu desenvolver durante minha jornada serão organizados aqui no GitHub, com foco em aprendizado, prática e evolução técnica.
+Vava-shop-bot: Bot interativo para Discord com utilitários, consultas de dados e integração para comunidade de VALORANT.
+Pata-Gestão: Sistema de gestão de estoque e controle financeiro focado em agropecuária, com suporte a vendas por peso/unidade, implementação de leitor de codigo de barras e Balança.
 
 ## 📈 Minha jornada
 
@@ -37,8 +37,6 @@ Portfólio Profissional
 Desenvolvimento de Software
 ```
 
-## 🤝 Vamos nos conectar
-
-Estou sempre aberto a aprender, trocar conhecimento e acompanhar a comunidade de tecnologia.
+## 🤝 Estou sempre aberto a aprender, trocar conhecimento e acompanhar a comunidade de tecnologia.
 
 ⭐ **Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!**
